@@ -39,6 +39,3 @@ It is useful for applications like:
 ## 💻 Arduino Code
 The code is given below:
 [View code](alarm.cpp)
-
-  delay(200);
-}
