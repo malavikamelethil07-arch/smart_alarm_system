@@ -33,7 +33,7 @@ It is useful for applications like:
 | Jumper Wires         | As needed |
 
 ## Video of stimulation
-[Watch video]()
+[Watch video](https://drive.google.com/file/d/1JJMecI7oZEW0Caqb-K4G5W0eLh1fLkdu/view?usp=drive_link)
 
 
 ## 💻 Arduino Code
